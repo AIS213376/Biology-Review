@@ -58,7 +58,7 @@
 
 <body>
 <div id="apDiv1">Animal Physiology </div>
-<!-- TemplateBeginEditable name="EditRegion3" -->
+<!-- TemplateBeginEditable name="header" -->
 <div id="apDiv2"></div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="poster" -->
 <div id="apDiv3"></div>
