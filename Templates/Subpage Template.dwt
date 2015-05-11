@@ -26,7 +26,7 @@
 }
 #apDiv3 {
 	position:absolute;
-	left:64px;
+	left:62px;
 	top:165px;
 	width:500px;
 	height:1500px;
@@ -41,13 +41,31 @@
 	z-index:4;
 	overflow: scroll;
 }
+#apDiv1 {
+	border: thin solid #000;
+}
+#apDiv2 {
+	border: thin solid #000;
+}
+#apDiv3 {
+	border: thin solid #000;
+}
+#apDiv4 {
+	border: thin solid #000;
+}
 </style>
 </head>
 
 <body>
 <div id="apDiv1">Animal Physiology </div>
+<!-- TemplateBeginEditable name="EditRegion3" -->
 <div id="apDiv2"></div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="poster" -->
 <div id="apDiv3"></div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="description" -->
 <div id="apDiv4"></div>
+<!-- TemplateEndEditable -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </body>
 </html>
