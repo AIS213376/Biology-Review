@@ -31,6 +31,7 @@
 	width:500px;
 	height:800px;
 	z-index:3;
+	overflow: scroll;
 }
 #apDiv4 {
 	position:absolute;
