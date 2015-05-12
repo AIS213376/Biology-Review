@@ -29,7 +29,7 @@
 	left:62px;
 	top:165px;
 	width:500px;
-	height:800px;
+	height:700px;
 	z-index:3;
 	overflow: scroll;
 }
