@@ -29,7 +29,7 @@
 	left:62px;
 	top:165px;
 	width:500px;
-	height:700px;
+	height:450px;
 	z-index:3;
 	overflow: scroll;
 }
@@ -49,14 +49,7 @@
 	border: thin solid #000;
 }
 #apDiv3 {
-	border-top-width: thin;
-	border-right-width: thin;
-	border-bottom-width: thin;
-	border-left-width: thin;
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
+	border: thin solid #000;
 }
 #apDiv4 {
 	border: thin solid #000;
