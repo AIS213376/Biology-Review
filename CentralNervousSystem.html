@@ -52,12 +52,14 @@ body {
 }
 #apDiv2 {
 	border: thin solid #000;
+	background-color: #66CCFF;
 }
 #apDiv3 {
 	border: thin solid #CCC;
 }
 #apDiv4 {
 	border: thin solid #CCC;
+	background-color: #66CCFF;
 }
 #apDiv5 {
 	position:absolute;
@@ -66,13 +68,16 @@ body {
 	width:960px;
 	height:65px;
 	z-index:5;
+}td img {display: block;}
+#Background {
+	background-color: #FFFFCC;
 }
 </style>
 </head>
 
-<body>
+<body id="Background">
 <div id="apDiv1">Animal Physiology </div>
-<div id="apDiv5">Button</div>
+<div id="apDiv5"><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','ButtonCNS','../ButtonCNS_s2.gif','../ButtonCNS_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','ButtonCNS','../ButtonCNS_s3.gif',1);"><img name="ButtonCNS" src="ButtonCNS.gif" width="160" height="65" border="0" id="ButtonCNS" alt="" /></a></div>
 <!-- InstanceBeginEditable name="header" -->
 <h1>&nbsp;</h1>
 <div id="apDiv2">Central Nervous System</div>
